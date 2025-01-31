@@ -41,8 +41,8 @@ Amazon Simple Queue Service (SQS) is a fully managed message queuing service tha
 1️⃣ Clone the repository:
 
 ```sh
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
+git clone https://github.com/egoan82/fastapi-with-aws-sqs.git
+cd fastapi-with-aws-sqs
 ```
 
 2️⃣ Create and activate a virtual environment with `uv`:
